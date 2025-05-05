@@ -48,6 +48,8 @@ function App() {
         <li>Written + Verbal Communication</li>
         <br></br>
         <h2>Projects</h2>
+        <h4>Tech Portfolio</h4>
+        <p>I built my first portfolio page using React with TypeScript.</p>
         <h4>IBM Full Stack Software Developer Capstone</h4>
         <p>
           I completed the IBM Full Stack Software Developer certification course
